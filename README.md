@@ -4,7 +4,7 @@
 HandScanner .Net is a simple lightweight class writte in C# that helps programmers to easily implement any kind of barcode reader that supports these communication protocols:
 
 - RS-232 | RS-485
-- TcP/IP
+- TcP/IP (in next upgrades)
 
 ## Features
 
