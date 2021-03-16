@@ -10,9 +10,6 @@ HandScanner .Net is a simple lightweight class writte in C# that helps programme
 
 - Easy to implement in any net framework version up to 4.7.1
 - Higly configurable
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
 
 ## Installation
 
